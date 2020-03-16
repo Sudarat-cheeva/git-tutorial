@@ -1,6 +1,6 @@
 Version Control with GIT 1
 - Update file to test github
 - Update file to local form github
-- Bla Bla Bla
+<<<<<<< HEAD
+- Bla Bla Bla Bla
 - This is myflie.
-
